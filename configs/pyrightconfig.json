@@ -23,5 +23,6 @@
   "reportUnknownParameterType": "none",
   "reportUnknownVariableType": "none",
   "reportUntypedBaseClass": "none",
-  "reportUntypedFunctionDecorator": "none"
+  "reportUntypedFunctionDecorator": "none",
+  "reportUntypedClassDecorator": "none",
 }
