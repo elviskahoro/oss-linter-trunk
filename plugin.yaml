@@ -63,6 +63,7 @@ lint:
   # Sourcing repos will have these configs available to applicable linters
   exported_configs:
     - configs:
+        - configs/.bandit
         - configs/.flake8
         - configs/.hadolint.yaml
         - configs/.isort.cfg
