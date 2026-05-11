@@ -1,3 +1,8 @@
+---
+title: Contributing
+marimo-version: 0.23.5
+---
+
 # Contribution
 
 If you see any room for improvement in these configuration files, or see the potential to add any

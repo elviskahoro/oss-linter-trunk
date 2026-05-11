@@ -1,3 +1,8 @@
+---
+title: Security
+marimo-version: 0.23.5
+---
+
 # Security Policy
 
 ## Reporting a Vulnerability

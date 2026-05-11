@@ -1,3 +1,8 @@
+---
+title: Readme
+marimo-version: 0.23.5
+---
+
 # Opinionated Trunk.io Plugin
 
 [![docs](https://img.shields.io/badge/-docs-darkgreen?logo=readthedocs&logoColor=ffffff)][docs]
